@@ -5,4 +5,4 @@
 [Learning Git Branching](https://learngitbranching.js.org/)
 
 ### Knowledge Bank
-[I'm an inline-style link](https://www.google.com)
+[Git Video Tutorials](https://github.com/Multishifties/No-Nonsense-Github-Project)
