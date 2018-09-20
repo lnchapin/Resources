@@ -8,3 +8,6 @@
 * [What the Heck is the CSS Cascade?](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade)
 * [Advanced CSS Selectors](https://www.smashingmagazine.com/2009/08/taming-advanced-css-selectors/)
 * [CSS Diner(game to practice CSS selectors, basic through advanced)](https://flukeout.github.io/)
+* [CSS Pseudo Classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
+* [Link Pseudo Classes(in the order necessary for all to work!)](https://css-tricks.com/snippets/css/link-pseudo-classes-in-order/)
+* [Hover.css(CSS-powered hover effects)](http://ianlunn.github.io/Hover/)
