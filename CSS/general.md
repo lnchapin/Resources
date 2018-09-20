@@ -11,3 +11,4 @@
 * [CSS Pseudo Classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
 * [Link Pseudo Classes(in the order necessary for all to work!)](https://css-tricks.com/snippets/css/link-pseudo-classes-in-order/)
 * [Hover.css(CSS-powered hover effects)](http://ianlunn.github.io/Hover/)
+* [focus-within pseudo class](https://developer.mozilla.org/en-US/docs/Web/CSS/:focus-within)
